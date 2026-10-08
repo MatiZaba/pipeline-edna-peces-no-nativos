@@ -1,0 +1,220 @@
+gen,especie,accession_1,accession_2,p_distance
+12S,Acipenser baerii,AB1368,F20-043,0.0
+12S,Acipenser baerii,AB1368,F20-045,0.0
+12S,Acipenser baerii,F20-043,F20-045,0.0
+12S,Acipenser gueldenstaedtii,Complete genome,Dinoville,0.0
+12S,Ameiurus nebulosus,Complete genome,NEFCF16113,0.005208333333333333
+12S,Ameiurus nebulosus,Complete genome,NEFCF16115,0.005208333333333333
+12S,Ameiurus nebulosus,NEFCF16113,NEFCF16115,0.0
+12S,Carassius auratus,CES025,CES806,0.0
+12S,Carassius auratus,CES025,FCa8,0.0
+12S,Carassius auratus,CES806,FCa8,0.0
+12S,Coregonus clupeaformis,Complete Genome,NEFCF17264,0.0031678986272439284
+12S,Coregonus clupeaformis,Complete Genome,NEFCF17265,0.0031678986272439284
+12S,Coregonus clupeaformis,NEFCF17264,NEFCF17265,0.0
+12S,Ctenopharyngodon idella,Complete Genome,NEFCF16264,0.0020876826722338203
+12S,Cyprinus Carpio,Oujiang,Zujiang,0.0
+12S,Cyprinus Carpio,Oujiang,WuLi,0.0
+12S,Cyprinus Carpio,Zujiang,WuLi,0.0
+12S,Danio Rerio,AB2,AB3,0.0
+12S,Danio Rerio,AB2,AB4,0.0
+12S,Danio Rerio,AB3,AB4,0.0
+12S,Gambusia affinis,Complete Genome OL,Complete Genome OL,0.0
+12S,Gambusia holbrooki,CES802,CES803,0.0
+12S,Huso huso,Complete Genome MK,Complete Genome MK,0.0
+12S,Hypophthalmichthys molitrix,Jumper,SC_PL20_96,0.0
+12S,Hypophthalmichthys molitrix,Jumper,SC_Amur,0.0010438413361169101
+12S,Hypophthalmichthys molitrix,SC_PL20_96,SC_Amur,0.0010438413361169101
+12S,Hypophthalmichthys nobilis,BH-ATCH-46,sr-bh2,0.0010582010582010583
+12S,Hypophthalmichthys nobilis,BH-ATCH-46,BH_Pool20_111,0.0010438413361169101
+12S,Hypophthalmichthys nobilis,sr-bh2,BH_Pool20_111,0.00211864406779661
+12S,Ictalurus punctatus,NEFC_F16-259_strain,NEFC_F16-568_strain,0.001049317943336831
+12S,Ictalurus punctatus,NEFC_F16-259_strain,NEFC_F16-262_strain,0.004197271773347324
+12S,Ictalurus punctatus,NEFC_F16-568_strain,NEFC_F16-262_strain,0.0031479538300104933
+12S,Micropterus salmoides,Complete Genome,NEFC_F19-301,0.0
+12S,Morone saxatilis,teMOSA7,teMOSA8,0.0
+12S,Morone saxatilis,teMOSA7,teMOSA9,0.0
+12S,Morone saxatilis,teMOSA8,teMOSA9,0.0
+12S,Oncorhynchus gorbuscha,Complete Genome,MNHN-IC-2022-0168,0.0010559662090813093
+12S,Oncorhynchus kisutch,FB4,NEFC_F16-295,0.0
+12S,Oncorhynchus kisutch,FB4,NEFC_F16-322,0.0
+12S,Oncorhynchus kisutch,NEFC_F16-295,NEFC_F16-322,0.0
+12S,Oncorhynchus masou,formosanus,ishikawae,0.0021141649048625794
+12S,Oncorhynchus masou,formosanus,masou,0.0021141649048625794
+12S,Oncorhynchus masou,ishikawae,masou,0.0021141649048625794
+12S,Oncorhynchus mykiss,94051,ST-075,0.0
+12S,Oncorhynchus mykiss,94051,VIMS:40312,0.0
+12S,Oncorhynchus mykiss,ST-075,VIMS:40312,0.0
+12S,Oncorhynchus nerka,FB1,FB2,0.0
+12S,Oncorhynchus nerka,FB1,FB7,0.0
+12S,Oncorhynchus nerka,FB2,FB7,0.0
+12S,Oncorhynchus tshawytscha,Complete Genome ON,Complete Genome ON,0.0
+12S,Oreochromis niloticus,America,Egypt,0.0
+12S,Oreochromis niloticus,America,Guangdong,0.027571580063626724
+12S,Oreochromis niloticus,Egypt,Guangdong,0.027571580063626724
+12S,Oryzias latipes,Complete Genome,Nago,0.01910828025477707
+12S,Oryzias latipes,Complete Genome,Shanghai,0.045647558386411886
+12S,Oryzias latipes,Nago,Shanghai,0.041401273885350316
+12S,Poecilia reticulata,Complete Genome,F-P-r-1,0.007415254237288136
+12S,Salmo salar,Sal_Chi1,Sal_Chi2,0.0
+12S,Salmo salar,Sal_Chi1,Sal_Far1,0.0010559662090813093
+12S,Salmo salar,Sal_Chi2,Sal_Far1,0.0010559662090813093
+12S,Salmo trutta,MAla-1,T10059,0.0010559662090813093
+12S,Salmo trutta,MAla-1,T06836,0.0021119324181626186
+12S,Salmo trutta,T10059,T06836,0.0031678986272439284
+12S,Salvelinus alpinus,ICEL_1_1,ICEL_1_7,0.0
+12S,Salvelinus alpinus,ICEL_1_1,ICEL_1_16,0.0010559662090813093
+12S,Salvelinus alpinus,ICEL_1_7,ICEL_1_16,0.0010559662090813093
+12S,Salvelinus fontinalis,Complete genome,NEFC_F16-139,0.0
+12S,Salvelinus fontinalis,Complete genome,NEFC_F16-129,0.0010559662090813093
+12S,Salvelinus fontinalis,NEFC_F16-139,NEFC_F16-129,0.0010559662090813093
+12S,Salvelinus namaycush,NEFC_F16-012,UAM:Fish:10464:374966,0.0
+12S,Salvelinus namaycush,NEFC_F16-012,NEFC_F16-461,0.0
+12S,Salvelinus namaycush,UAM:Fish:10464:374966,NEFC_F16-461,0.0
+12S,Xiphophorus maculatus,Complete genome,F-X-m-1,0.0021119324181626186
+16S,Acipenser baerii,AB1368,F20-043,0.0005875440658049354
+16S,Acipenser baerii,AB1368,F20-045,0.0005875440658049354
+16S,Acipenser baerii,F20-043,F20-045,0.0
+16S,Acipenser gueldenstaedtii,Complete genome,Dinoville,0.0
+16S,Ameiurus nebulosus,Complete genome,NEFCF16113,0.010372178157413058
+16S,Ameiurus nebulosus,Complete genome,NEFCF16115,0.010372178157413058
+16S,Ameiurus nebulosus,NEFCF16113,NEFCF16115,0.0
+16S,Carassius auratus,CES025,FCa8,0.0
+16S,Carassius auratus,CES025,CES806,0.0005945303210463733
+16S,Carassius auratus,FCa8,CES806,0.0005945303210463733
+16S,Coregonus clupeaformis,Complete Genome,NEFCF17264,0.0
+16S,Coregonus clupeaformis,Complete Genome,NEFCF17265,0.0005955926146515784
+16S,Coregonus clupeaformis,NEFCF17264,NEFCF17265,0.0005955926146515784
+16S,Ctenopharyngodon idella,Complete Genome,NEFCF16264,0.0005913660555884093
+16S,Cyprinus Carpio,Oujiang,WuLi,0.0
+16S,Cyprinus Carpio,Oujiang,Zujiang,0.0011911852293031567
+16S,Cyprinus Carpio,WuLi,Zujiang,0.0011911852293031567
+16S,Danio Rerio,AB2,AB3,0.0
+16S,Danio Rerio,AB2,AB4,0.0
+16S,Danio Rerio,AB3,AB4,0.0
+16S,Gambusia affinis,Complete Genome OL,Complete Genome OL,0.001201923076923077
+16S,Gambusia holbrooki,CES802,CES803,0.0
+16S,Huso huso,Complete Genome MK,Complete Genome MK,0.014714537963507945
+16S,Hypophthalmichthys molitrix,Jumper,SC_PL20_96,0.0
+16S,Hypophthalmichthys molitrix,Jumper,SC_Amur,0.0030048076923076925
+16S,Hypophthalmichthys molitrix,SC_PL20_96,SC_Amur,0.0030959752321981426
+16S,Hypophthalmichthys nobilis,BH-ATCH-46,BH_Pool20_111,0.0006035003017501509
+16S,Hypophthalmichthys nobilis,BH-ATCH-46,sr-bh2,0.0005952380952380953
+16S,Hypophthalmichthys nobilis,BH_Pool20_111,sr-bh2,0.0
+16S,Ictalurus punctatus,NEFC_F16-259_strain,NEFC_F16-568_strain,0.0024096385542168677
+16S,Ictalurus punctatus,NEFC_F16-259_strain,NEFC_F16-262_strain,0.006024096385542169
+16S,Ictalurus punctatus,NEFC_F16-568_strain,NEFC_F16-262_strain,0.0036144578313253013
+16S,Micropterus salmoides,Complete Genome,NEFC_F19-301,0.0
+16S,Morone saxatilis,teMOSA7,teMOSA9,0.0
+16S,Morone saxatilis,teMOSA7,teMOSA8,0.0005966587112171838
+16S,Morone saxatilis,teMOSA9,teMOSA8,0.0005966587112171838
+16S,Oncorhynchus gorbuscha,Complete Genome,MNHN-IC-2022-0168,0.0005959475566150178
+16S,Oncorhynchus kisutch,FB4,NEFC_F16-322,0.0
+16S,Oncorhynchus kisutch,FB4,NEFC_F16-295,0.0005952380952380953
+16S,Oncorhynchus kisutch,NEFC_F16-322,NEFC_F16-295,0.0005952380952380953
+16S,Oncorhynchus masou,formosanus,ishikawae,0.00357355568790947
+16S,Oncorhynchus masou,formosanus,masou,0.00357355568790947
+16S,Oncorhynchus masou,ishikawae,masou,0.0
+16S,Oncorhynchus mykiss,94051,ST-075,0.0
+16S,Oncorhynchus mykiss,94051,VIMS:40312,0.0
+16S,Oncorhynchus mykiss,ST-075,VIMS:40312,0.0
+16S,Oncorhynchus nerka,FB1,FB2,0.0
+16S,Oncorhynchus nerka,FB1,FB7,0.0
+16S,Oncorhynchus nerka,FB2,FB7,0.0
+16S,Oncorhynchus tshawytscha,Complete Genome ON,Complete Genome ON,0.0029832935560859188
+16S,Oreochromis niloticus,America,Egypt,0.0011792452830188679
+16S,Oreochromis niloticus,America,Guangdong,0.040756054341405785
+16S,Oreochromis niloticus,Egypt,Guangdong,0.040756054341405785
+16S,Oryzias latipes,Complete Genome,Nago,0.026897788404064555
+16S,Oryzias latipes,Complete Genome,Shanghai,0.07352062163777645
+16S,Oryzias latipes,Nago,Shanghai,0.07595693779904306
+16S,Poecilia reticulata,Complete Genome,F-P-r-1,0.0005988023952095808
+16S,Salmo salar,Sal_Chi1,Sal_Chi2,0.0005988023952095808
+16S,Salmo salar,Sal_Chi1,Sal_Far1,0.0005988023952095808
+16S,Salmo salar,Sal_Chi2,Sal_Far1,0.0
+16S,Salmo trutta,MAla-1,T06836,0.000594883997620464
+16S,Salmo trutta,MAla-1,T10059,0.001784651992861392
+16S,Salmo trutta,T06836,T10059,0.001189767995240928
+16S,Salvelinus alpinus,ICEL_1_1,ICEL_1_7,0.0
+16S,Salvelinus alpinus,ICEL_1_1,ICEL_1_16,0.0011911852293031567
+16S,Salvelinus alpinus,ICEL_1_7,ICEL_1_16,0.0011911852293031567
+16S,Salvelinus fontinalis,Complete genome,NEFC_F16-129,0.001786777843954735
+16S,Salvelinus fontinalis,Complete genome,NEFC_F16-139,0.0
+16S,Salvelinus fontinalis,NEFC_F16-129,NEFC_F16-139,0.0017761989342806395
+16S,Salvelinus namaycush,NEFC_F16-012,UAM:Fish:10464:374966,0.0
+16S,Salvelinus namaycush,NEFC_F16-012,NEFC_F16-461,0.0011841326228537595
+16S,Salvelinus namaycush,UAM:Fish:10464:374966,NEFC_F16-461,0.0005955926146515784
+16S,Xiphophorus maculatus,Complete genome,F-X-m-1,0.0005970149253731343
+COI,Acipenser baerii,AB1368,F20-043,0.0
+COI,Acipenser baerii,AB1368,F20-045,0.0
+COI,Acipenser baerii,F20-043,F20-045,0.0
+COI,Acipenser gueldenstaedtii,Complete genome,Dinoville,0.0
+COI,Ameiurus nebulosus,Complete genome,NEFCF16113,0.019987105093488073
+COI,Ameiurus nebulosus,Complete genome,NEFCF16115,0.019987105093488073
+COI,Ameiurus nebulosus,NEFCF16113,NEFCF16115,0.0
+COI,Carassius auratus,CES025,CES806,0.0
+COI,Carassius auratus,CES025,FCa8,0.0
+COI,Carassius auratus,CES806,FCa8,0.0
+COI,Coregonus clupeaformis,Complete Genome,NEFCF17264,0.0006447453255963894
+COI,Coregonus clupeaformis,Complete Genome,NEFCF17265,0.0006447453255963894
+COI,Coregonus clupeaformis,NEFCF17264,NEFCF17265,0.0
+COI,Ctenopharyngodon idella,Complete Genome,NEFCF16264,0.0019342359767891683
+COI,Cyprinus Carpio,Oujiang,WuLi,0.0019342359767891683
+COI,Cyprinus Carpio,Oujiang,Zujiang,0.0019342359767891683
+COI,Cyprinus Carpio,WuLi,Zujiang,0.0025789813023855577
+COI,Danio Rerio,AB2,AB3,0.0
+COI,Danio Rerio,AB2,AB4,0.0
+COI,Danio Rerio,AB3,AB4,0.0
+COI,Gambusia affinis,Complete Genome OL,Complete Genome OL,0.0019267822736030828
+COI,Gambusia holbrooki,CES802,CES803,0.0
+COI,Huso huso,Complete Genome MK,Complete Genome MK,0.037371134020618556
+COI,Hypophthalmichthys molitrix,Jumper,SC_PL20_96,0.0
+COI,Hypophthalmichthys molitrix,Jumper,SC_Amur,0.0038684719535783366
+COI,Hypophthalmichthys molitrix,SC_PL20_96,SC_Amur,0.0038684719535783366
+COI,Hypophthalmichthys nobilis,BH-ATCH-46,BH_Pool20_111,0.0012894906511927789
+COI,Hypophthalmichthys nobilis,BH-ATCH-46,sr-bh2,0.001326259946949602
+COI,Hypophthalmichthys nobilis,BH_Pool20_111,sr-bh2,0.001326259946949602
+COI,Ictalurus punctatus,NEFC_F16-259_strain,NEFC_F16-568_strain,0.0019342359767891683
+COI,Ictalurus punctatus,NEFC_F16-259_strain,NEFC_F16-262_strain,0.01096067053513862
+COI,Ictalurus punctatus,NEFC_F16-568_strain,NEFC_F16-262_strain,0.010315925209542231
+COI,Micropterus salmoides,Complete Genome,NEFC_F19-301,0.0
+COI,Morone saxatilis,teMOSA7,teMOSA8,0.0
+COI,Morone saxatilis,teMOSA7,teMOSA9,0.0
+COI,Morone saxatilis,teMOSA8,teMOSA9,0.0
+COI,Oncorhynchus gorbuscha,Complete Genome,MNHN-IC-2022-0168,0.003223726627981947
+COI,Oncorhynchus kisutch,FB4,NEFC_F16-295,0.0006447453255963894
+COI,Oncorhynchus kisutch,FB4,NEFC_F16-322,0.0006447453255963894
+COI,Oncorhynchus kisutch,NEFC_F16-295,NEFC_F16-322,0.0
+COI,Oncorhynchus masou,formosanus,ishikawae,0.0019342359767891683
+COI,Oncorhynchus masou,formosanus,masou,0.0019342359767891683
+COI,Oncorhynchus masou,ishikawae,masou,0.0012894906511927789
+COI,Oncorhynchus mykiss,94051,ST-075,0.0012894906511927789
+COI,Oncorhynchus mykiss,94051,VIMS:40312,0.0038684719535783366
+COI,Oncorhynchus mykiss,ST-075,VIMS:40312,0.0025789813023855577
+COI,Oncorhynchus nerka,FB1,FB2,0.0
+COI,Oncorhynchus nerka,FB1,FB7,0.0
+COI,Oncorhynchus nerka,FB2,FB7,0.0
+COI,Oncorhynchus tshawytscha,Complete Genome ON,Complete Genome ON,0.005802707930367505
+COI,Oreochromis niloticus,America,Egypt,0.0012531328320802004
+COI,Oreochromis niloticus,America,Guangdong,0.06829573934837092
+COI,Oreochromis niloticus,Egypt,Guangdong,0.06829573934837092
+COI,Oryzias latipes,Complete Genome,Nago,0.045600513808606295
+COI,Oryzias latipes,Complete Genome,Shanghai,0.14836223506743737
+COI,Oryzias latipes,Nago,Shanghai,0.15093127809890816
+COI,Poecilia reticulata,Complete Genome,F-P-r-1,0.004516129032258065
+COI,Salmo salar,Sal_Chi1,Sal_Chi2,0.0
+COI,Salmo salar,Sal_Chi1,Sal_Far1,0.0
+COI,Salmo salar,Sal_Chi2,Sal_Far1,0.0
+COI,Salmo trutta,MAla-1,T06836,0.0006447453255963894
+COI,Salmo trutta,MAla-1,T10059,0.0025789813023855577
+COI,Salmo trutta,T06836,T10059,0.003223726627981947
+COI,Salvelinus alpinus,ICEL_1_16,ICEL_1_1,0.0006447453255963894
+COI,Salvelinus alpinus,ICEL_1_16,ICEL_1_7,0.0006447453255963894
+COI,Salvelinus alpinus,ICEL_1_1,ICEL_1_7,0.0
+COI,Salvelinus fontinalis,Complete genome,NEFC_F16-139,0.0006447453255963894
+COI,Salvelinus fontinalis,Complete genome,NEFC_F16-129,0.003223726627981947
+COI,Salvelinus fontinalis,NEFC_F16-139,NEFC_F16-129,0.0025789813023855577
+COI,Salvelinus namaycush,NEFC_F16-012,UAM:Fish:10464:374966,0.0012894906511927789
+COI,Salvelinus namaycush,NEFC_F16-012,NEFC_F16-461,0.003223726627981947
+COI,Salvelinus namaycush,UAM:Fish:10464:374966,NEFC_F16-461,0.003223726627981947
+COI,Xiphophorus maculatus,Complete genome,F-X-m-1,0.0

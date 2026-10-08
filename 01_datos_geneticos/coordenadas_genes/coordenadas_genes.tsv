@@ -1,0 +1,256 @@
+archivo	especie	tipo	isolate	gen	inicio	fin	tipo muestra
+INV_Acipenser_baerii_AB1368.fasta	Acipenser baerii	INV	AB1368	16S	1101	2802	isolate
+INV_Acipenser_baerii_AB1368.fasta	Acipenser baerii	INV	AB1368	12S	69	1029	isolate
+INV_Acipenser_baerii_AB1368.fasta	Acipenser baerii	INV	AB1368	COX	5508	7061	isolate
+INV_Acipenser_baerii_F20-045.fasta	Acipenser baerii	INV	F20-045	16S	1101	2802	isolate
+INV_Acipenser_baerii_F20-045.fasta	Acipenser baerii	INV	F20-045	12S	69	1029	isolate
+INV_Acipenser_baerii_F20-045.fasta	Acipenser baerii	INV	F20-045	COX	5508	7061	isolate
+INV_Acipenser_baerii_F20-043.fasta	Acipenser baerii	INV	F20-043	16S	1101	2802	isolate
+INV_Acipenser_baerii_F20-043.fasta	Acipenser baerii	INV	F20-043	12S	69	1029	isolate
+INV_Acipenser_baerii_F20-043.fasta	Acipenser baerii	INV	F20-043	COX	5508	7061	isolate
+INV_Acipenser_gueldenstaedtii_Dinoville.fasta	Acipenser gueldenstaedtii	INV	Dinoville	16S	1101	2802	isolate
+INV_Acipenser_gueldenstaedtii_Dinoville.fasta	Acipenser gueldenstaedtii	INV	Dinoville	12S	69	1029	isolate
+INV_Acipenser_gueldenstaedtii_Dinoville.fasta	Acipenser gueldenstaedtii	INV	Dinoville	COX	5508	7061	isolate
+INV_Acipenser_gueldenstaedtii_cg.fasta	Acipenser gueldenstaedtii	INV	Complete genome	16S	1101	2802	Complete Genome
+INV_Acipenser_gueldenstaedtii_cg.fasta	Acipenser gueldenstaedtii	INV	Complete genome	12S	69	1029	Complete Genome
+INV_Acipenser_gueldenstaedtii_cg.fasta	Acipenser gueldenstaedtii	INV	Complete genome	COX	5508	7061	Complete Genome
+INV_Ameiurus_nebulosus_NEFCF16113.fasta	Ameiurus nebulosus	INV	NEFCF16113	16S	1103	2764	Voucher
+INV_Ameiurus_nebulosus_NEFCF16113.fasta	Ameiurus nebulosus	INV	NEFCF16113	12S	71	1030	Voucher
+INV_Ameiurus_nebulosus_NEFCF16113.fasta	Ameiurus nebulosus	INV	NEFCF16113	COX	5457	7007	Voucher
+INV_Ameiurus_nebulosus_cg.fasta	Ameiurus nebulosus	INV	Complete genome	16S	1126	2766	Complete Genome
+INV_Ameiurus_nebulosus_cg.fasta	Ameiurus nebulosus	INV	Complete genome	12S	71	1030	Complete Genome
+INV_Ameiurus_nebulosus_cg.fasta	Ameiurus nebulosus	INV	Complete genome	COX	5457	7007	Complete Genome
+INV_Ameiurus_nebulosus_NEFCF16115.fasta	Ameiurus nebulosus	INV	NEFCF16115	16S	1103	2764	Voucher
+INV_Ameiurus_nebulosus_NEFCF16115.fasta	Ameiurus nebulosus	INV	NEFCF16115	12S	71	1030	Voucher
+INV_Ameiurus_nebulosus_NEFCF16115.fasta	Ameiurus nebulosus	INV	NEFCF16115	COX	5457	7007	Voucher
+INV_Carassius_auratus_FCa8.fasta	Carassius auratus	INV	FCa8	16S	1966	3647	isolate
+INV_Carassius_auratus_FCa8.fasta	Carassius auratus	INV	FCa8	12S	940	1891	isolate
+INV_Carassius_auratus_FCa8.fasta	Carassius auratus	INV	FCa8	COX	6349	7899	isolate
+INV_Carassius_auratus_CES806.fasta	Carassius auratus	INV	CES806	16S	1096	2777	isolate
+INV_Carassius_auratus_CES806.fasta	Carassius auratus	INV	CES806	12S	70	1023	isolate
+INV_Carassius_auratus_CES806.fasta	Carassius auratus	INV	CES806	COX	5479	7029	isolate
+INV_Carassius_auratus_CES025.fasta	Carassius auratus	INV	CES025	16S	1096	2777	isolate
+INV_Carassius_auratus_CES025.fasta	Carassius auratus	INV	CES025	12S	70	1023	isolate
+INV_Carassius_auratus_CES025.fasta	Carassius auratus	INV	CES025	COX	5479	7029	isolate
+INV_Clarias_gariepinus_cg.fasta	Clarias gariepinus	INV	Complete Genome	16S	1094	2768	Complete Genome
+INV_Clarias_gariepinus_cg.fasta	Clarias gariepinus	INV	Complete Genome	12S	70	1021	Complete Genome
+INV_Clarias_gariepinus_cg.fasta	Clarias gariepinus	INV	Complete Genome	COX	5477	7027	Complete Genome
+INV_Coregonus_clupeaformis_cg.fasta	Coregonus clupeaformis	INV	Complete Genome	16S	1088	2766	Complete Genome
+INV_Coregonus_clupeaformis_cg.fasta	Coregonus clupeaformis	INV	Complete Genome	12S	69	1015	Complete Genome
+INV_Coregonus_clupeaformis_cg.fasta	Coregonus clupeaformis	INV	Complete Genome	COX	5472	7022	Complete Genome
+INV_Coregonus_clupeaformis_NEFCF17265.fasta	Coregonus clupeaformis	INV	NEFCF17265	16S	1088	2766	isolate
+INV_Coregonus_clupeaformis_NEFCF17265.fasta	Coregonus clupeaformis	INV	NEFCF17265	12S	69	1015	isolate
+INV_Coregonus_clupeaformis_NEFCF17265.fasta	Coregonus clupeaformis	INV	NEFCF17265	COX	5472	7022	isolate
+INV_Coregonus_clupeaformis_NEFCF17264.fasta	Coregonus clupeaformis	INV	NEFCF17264	16S	1088	2766	isolate
+INV_Coregonus_clupeaformis_NEFCF17264.fasta	Coregonus clupeaformis	INV	NEFCF17264	12S	69	1015	isolate
+INV_Coregonus_clupeaformis_NEFCF17264.fasta	Coregonus clupeaformis	INV	NEFCF17264	COX	5472	7022	isolate
+INV_Ctenopharyngodon_idella_cg.fasta	Ctenopharyngodon idella	INV	Complete Genome	16S	1100	2790	Complete Genome
+INV_Ctenopharyngodon_idella_cg.fasta	Ctenopharyngodon idella	INV	Complete Genome	12S	70	1027	Complete Genome
+INV_Ctenopharyngodon_idella_cg.fasta	Ctenopharyngodon idella	INV	Complete Genome	COX	5492	7042	Complete Genome
+INV_Ctenopharyngodon_idella_NEFCF16264.fasta	Ctenopharyngodon idella	INV	NEFCF16264	16S	1100	2791	isolate
+INV_Ctenopharyngodon_idella_NEFCF16264.fasta	Ctenopharyngodon idella	INV	NEFCF16264	12S	70	1027	isolate
+INV_Ctenopharyngodon_idella_NEFCF16264.fasta	Ctenopharyngodon idella	INV	NEFCF16264	COX	5492	7042	isolate
+INV_Cyprinus_carpio_ZUJ.fasta	Cyprinus Carpio	INV	Zujiang	16S	1097	2775	isolate
+INV_Cyprinus_carpio_ZUJ.fasta	Cyprinus Carpio	INV	Zujiang	12S	70	1024	isolate
+INV_Cyprinus_carpio_ZUJ.fasta	Cyprinus Carpio	INV	Zujiang	COX	5476	7026	isolate
+INV_Cyprinus_carpio_OUJ.fasta	Cyprinus Carpio	INV	Oujiang	16S	1097	2775	isolate
+INV_Cyprinus_carpio_OUJ.fasta	Cyprinus Carpio	INV	Oujiang	12S	70	1024	isolate
+INV_Cyprinus_carpio_OUJ.fasta	Cyprinus Carpio	INV	Oujiang	COX	5476	7026	isolate
+INV_Cyprinus_carpio_WuLi.fasta	Cyprinus Carpio	INV	WuLi	16S	1098	2776	isolate
+INV_Cyprinus_carpio_WuLi.fasta	Cyprinus Carpio	INV	WuLi	12S	70	1025	isolate
+INV_Cyprinus_carpio_WuLi.fasta	Cyprinus Carpio	INV	WuLi	COX	5477	7027	isolate
+INV_Danio_Rerio_AB4.fasta	Danio Rerio	INV	AB4	16S	2043	3726	isolate
+INV_Danio_Rerio_AB4.fasta	Danio Rerio	INV	AB4	12S	1020	1971	isolate
+INV_Danio_Rerio_AB4.fasta	Danio Rerio	INV	AB4	COX	6425	7975	isolate
+INV_Danio_Rerio_AB3.fasta	Danio Rerio	INV	AB3	16S	2043	3726	isolate
+INV_Danio_Rerio_AB3.fasta	Danio Rerio	INV	AB3	12S	1020	1971	isolate
+INV_Danio_Rerio_AB3.fasta	Danio Rerio	INV	AB3	COX	6425	7975	isolate
+INV_Danio_Rerio_AB2.fasta	Danio Rerio	INV	AB2	16S	2043	3726	isolate
+INV_Danio_Rerio_AB2.fasta	Danio Rerio	INV	AB2	12S	1020	1971	isolate
+INV_Danio_Rerio_AB2.fasta	Danio Rerio	INV	AB2	COX	6425	7975	isolate
+INV_Gambusia_affinis_cgNC.fasta	Gambusia affinis	INV	Complete Genome NC	16S	1089	2763	Complete Genome
+INV_Gambusia_affinis_cgNC.fasta	Gambusia affinis	INV	Complete Genome NC	12S	70	1016	Complete Genome
+INV_Gambusia_affinis_cgNC.fasta	Gambusia affinis	INV	Complete Genome NC	COX	5462	7018	Complete Genome
+INV_Gambusia_affinis_cgOL.fasta	Gambusia affinis	INV	Complete Genome OL	16S	1100	2764	Complete Genome
+INV_Gambusia_affinis_cgOL.fasta	Gambusia affinis	INV	Complete Genome OL	12S	70	1016	Complete Genome
+INV_Gambusia_affinis_cgOL.fasta	Gambusia affinis	INV	Complete Genome OL	COX	5463	7019	Complete Genome
+INV_Gambusia_holbrooki_CES803.fasta	Gambusia holbrooki	INV	CES803	16S	1090	2764	isolate
+INV_Gambusia_holbrooki_CES803.fasta	Gambusia holbrooki	INV	CES803	12S	70	1017	isolate
+INV_Gambusia_holbrooki_CES803.fasta	Gambusia holbrooki	INV	CES803	COX	5462	7018	isolate
+INV_Gambusia_holbrooki_CES802.fasta	Gambusia holbrooki	INV	CES802	16S	1090	2764	isolate
+INV_Gambusia_holbrooki_CES802.fasta	Gambusia holbrooki	INV	CES802	12S	70	1017	isolate
+INV_Gambusia_holbrooki_CES802.fasta	Gambusia holbrooki	INV	CES802	COX	5462	7018	isolate
+INV_Huso_huso_cgNC.fasta	Huso huso	INV	Complete Genome NC	16S	1153	2852	Complete Genome
+INV_Huso_huso_cgNC.fasta	Huso huso	INV	Complete Genome NC	12S	69	1081	Complete Genome
+INV_Huso_huso_cgNC.fasta	Huso huso	INV	Complete Genome NC	COX	5557	7110	Complete Genome
+INV_Huso_huso_cgMK.fasta	Huso huso	INV	Complete Genome MK	16S	1153	2854	Complete Genome
+INV_Huso_huso_cgMK.fasta	Huso huso	INV	Complete Genome MK	12S	69	1081	Complete Genome
+INV_Huso_huso_cgMK.fasta	Huso huso	INV	Complete Genome MK	COX	5560	7128	Complete Genome
+INV_Hypophthalmichthys_molitrix_SCPL2096.fasta	Hypophthalmichthys molitrix	INV	SC_PL20_96	16S	1101	2791	isolate
+INV_Hypophthalmichthys_molitrix_SCPL2096.fasta	Hypophthalmichthys molitrix	INV	SC_PL20_96	12S	71	1028	isolate
+INV_Hypophthalmichthys_molitrix_SCPL2096.fasta	Hypophthalmichthys molitrix	INV	SC_PL20_96	COX	5492	7042	isolate
+INV_Hypophthalmichthys_molitrix_SCAMUR.fasta	Hypophthalmichthys molitrix	INV	SC_Amur	16S	1102	2792	isolate
+INV_Hypophthalmichthys_molitrix_SCAMUR.fasta	Hypophthalmichthys molitrix	INV	SC_Amur	12S	71	1029	isolate
+INV_Hypophthalmichthys_molitrix_SCAMUR.fasta	Hypophthalmichthys molitrix	INV	SC_Amur	COX	5493	7043	isolate
+INV_Hypophthalmichthys_molitrix_JUMPER.fasta	Hypophthalmichthys molitrix	INV	Jumper	16S	1101	2791	isolate
+INV_Hypophthalmichthys_molitrix_JUMPER.fasta	Hypophthalmichthys molitrix	INV	Jumper	12S	71	1028	isolate
+INV_Hypophthalmichthys_molitrix_JUMPER.fasta	Hypophthalmichthys molitrix	INV	Jumper	COX	5492	7042	isolate
+INV_Hypophthalmichthys_nobilis_sr-bh2.fasta	Hypophthalmichthys nobilis	INV	sr-bh2	16S	1102	2791	isolate
+INV_Hypophthalmichthys_nobilis_sr-bh2.fasta	Hypophthalmichthys nobilis	INV	sr-bh2	12S	71	1029	isolate
+INV_Hypophthalmichthys_nobilis_sr-bh2.fasta	Hypophthalmichthys nobilis	INV	sr-bh2	COX	5492	7042	isolate
+INV_Hypophthalmichthys_nobilis_BH-ATCH-46.fasta	Hypophthalmichthys nobilis	INV	BH-ATCH-46	16S	1102	2791	isolate
+INV_Hypophthalmichthys_nobilis_BH-ATCH-46.fasta	Hypophthalmichthys nobilis	INV	BH-ATCH-46	12S	71	1029	isolate
+INV_Hypophthalmichthys_nobilis_BH-ATCH-46.fasta	Hypophthalmichthys nobilis	INV	BH-ATCH-46	COX	5492	7042	isolate
+INV_Hypophthalmichthys_nobilis_BH_Pool20_111.fasta	Hypophthalmichthys nobilis	INV	BH_Pool20_111	16S	1101	2790	isolate
+INV_Hypophthalmichthys_nobilis_BH_Pool20_111.fasta	Hypophthalmichthys nobilis	INV	BH_Pool20_111	12S	71	1028	isolate
+INV_Hypophthalmichthys_nobilis_BH_Pool20_111.fasta	Hypophthalmichthys nobilis	INV	BH_Pool20_111	COX	5491	7041	isolate
+INV_Ictalurus_punctatus_NEFC_F16-262_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-262_strain	16S	1096	2755	Strain
+INV_Ictalurus_punctatus_NEFC_F16-262_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-262_strain	12S	71	1023	Strain
+INV_Ictalurus_punctatus_NEFC_F16-262_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-262_strain	COX	5450	7000	Strain
+INV_Ictalurus_punctatus_NEFC_F16-568_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-568_strain	16S	1096	2755	Strain
+INV_Ictalurus_punctatus_NEFC_F16-568_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-568_strain	12S	71	1023	Strain
+INV_Ictalurus_punctatus_NEFC_F16-568_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-568_strain	COX	5450	7000	Strain
+INV_Ictalurus_punctatus_NEFC_F16-259_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-259_strain	16S	1096	2755	Strain
+INV_Ictalurus_punctatus_NEFC_F16-259_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-259_strain	12S	71	1023	Strain
+INV_Ictalurus_punctatus_NEFC_F16-259_strain.fasta	Ictalurus punctatus	INV	NEFC_F16-259_strain	COX	5450	7000	Strain
+INV_Micropterus_salmoides_cg.fasta	Micropterus salmoides	INV	Complete Genome	16S	1113	2775	Complete Genome
+INV_Micropterus_salmoides_cg.fasta	Micropterus salmoides	INV	Complete Genome	12S	69	1015	Complete Genome
+INV_Micropterus_salmoides_cg.fasta	Micropterus salmoides	INV	Complete Genome	COX	5472	7022	Complete Genome
+INV_Micropterus_salmoides_NEFC_F19-301.fasta	Micropterus salmoides	INV	NEFC_F19-301	16S	1088	2775	Voucher
+INV_Micropterus_salmoides_NEFC_F19-301.fasta	Micropterus salmoides	INV	NEFC_F19-301	12S	69	1015	Voucher
+INV_Micropterus_salmoides_NEFC_F19-301.fasta	Micropterus salmoides	INV	NEFC_F19-301	COX	5472	7022	Voucher
+INV_Morone_saxatilis_teMOSA9.fasta	Morone saxatilis	INV	teMOSA9	16S	1122	2797	isolate
+INV_Morone_saxatilis_teMOSA9.fasta	Morone saxatilis	INV	teMOSA9	12S	69	1024	isolate
+INV_Morone_saxatilis_teMOSA9.fasta	Morone saxatilis	INV	teMOSA9	COX	5566	7116	isolate
+INV_Morone_saxatilis_teMOSA8.fasta	Morone saxatilis	INV	teMOSA8	16S	1122	2797	isolate
+INV_Morone_saxatilis_teMOSA8.fasta	Morone saxatilis	INV	teMOSA8	12S	69	1024	isolate
+INV_Morone_saxatilis_teMOSA8.fasta	Morone saxatilis	INV	teMOSA8	COX	5566	7116	isolate
+INV_Morone_saxatilis_teMOSA7.fasta	Morone saxatilis	INV	teMOSA7	16S	1122	2797	isolate
+INV_Morone_saxatilis_teMOSA7.fasta	Morone saxatilis	INV	teMOSA7	12S	69	1024	isolate
+INV_Morone_saxatilis_teMOSA7.fasta	Morone saxatilis	INV	teMOSA7	COX	5566	7116	isolate
+INV_Oncorhynchus_gorbuscha_cg.fasta	Oncorhynchus gorbuscha	INV	Complete Genome	16S	2219	3896	Complete Genome
+INV_Oncorhynchus_gorbuscha_cg.fasta	Oncorhynchus gorbuscha	INV	Complete Genome	12S	1200	2146	Complete Genome
+INV_Oncorhynchus_gorbuscha_cg.fasta	Oncorhynchus gorbuscha	INV	Complete Genome	COX	6597	8147	Complete Genome
+INV_Oncorhynchus_gorbuscha_MNHN-IC.fasta	Oncorhynchus gorbuscha	INV	MNHN-IC-2022-0168	16S	1088	2765	Voucher
+INV_Oncorhynchus_gorbuscha_MNHN-IC.fasta	Oncorhynchus gorbuscha	INV	MNHN-IC-2022-0168	12S	69	1015	Voucher
+INV_Oncorhynchus_gorbuscha_MNHN-IC.fasta	Oncorhynchus gorbuscha	INV	MNHN-IC-2022-0168	COX	5466	7016	Voucher
+INV_Oncorhynchus_kisutch_NEFC_F16-322.fasta	Oncorhynchus kisutch	INV	NEFC_F16-322	16S	1088	2767	Voucher
+INV_Oncorhynchus_kisutch_NEFC_F16-322.fasta	Oncorhynchus kisutch	INV	NEFC_F16-322	12S	69	1015	Voucher
+INV_Oncorhynchus_kisutch_NEFC_F16-322.fasta	Oncorhynchus kisutch	INV	NEFC_F16-322	COX	5469	7019	Voucher
+INV_Oncorhynchus_kisutch_NEFC_F16-295.fasta	Oncorhynchus kisutch	INV	NEFC_F16-295	16S	1088	2767	Voucher
+INV_Oncorhynchus_kisutch_NEFC_F16-295.fasta	Oncorhynchus kisutch	INV	NEFC_F16-295	12S	69	1015	Voucher
+INV_Oncorhynchus_kisutch_NEFC_F16-295.fasta	Oncorhynchus kisutch	INV	NEFC_F16-295	COX	5469	7019	Voucher
+INV_Oncorhynchus_kisutch_FB4.fasta	Oncorhynchus kisutch	INV	FB4	16S	1088	2767	isolate
+INV_Oncorhynchus_kisutch_FB4.fasta	Oncorhynchus kisutch	INV	FB4	12S	69	1015	isolate
+INV_Oncorhynchus_kisutch_FB4.fasta	Oncorhynchus kisutch	INV	FB4	COX	5469	7019	isolate
+INV_Oncorhynchus_masou_formosanus.fasta	Oncorhynchus masou	INV	formosanus	16S	2085	3763	Complete Genome
+INV_Oncorhynchus_masou_formosanus.fasta	Oncorhynchus masou	INV	formosanus	12S	1067	2012	Complete Genome
+INV_Oncorhynchus_masou_formosanus.fasta	Oncorhynchus masou	INV	formosanus	COX	6465	8015	Complete Genome
+INV_Oncorhynchus_masou_masou.fasta	Oncorhynchus masou	INV	masou	16S	2085	3763	Complete Genome
+INV_Oncorhynchus_masou_masou.fasta	Oncorhynchus masou	INV	masou	12S	1067	2012	Complete Genome
+INV_Oncorhynchus_masou_masou.fasta	Oncorhynchus masou	INV	masou	COX	6465	8015	Complete Genome
+INV_Oncorhynchus_masou_ishikawae.fasta	Oncorhynchus masou	INV	ishikawae	16S	2085	3763	Complete Genome
+INV_Oncorhynchus_masou_ishikawae.fasta	Oncorhynchus masou	INV	ishikawae	12S	1067	2012	Complete Genome
+INV_Oncorhynchus_masou_ishikawae.fasta	Oncorhynchus masou	INV	ishikawae	COX	6465	8015	Complete Genome
+INV_Oncorhynchus_mykiss_VIMS.fasta	Oncorhynchus mykiss	INV	VIMS:40312	16S	1088	2767	Voucher
+INV_Oncorhynchus_mykiss_VIMS.fasta	Oncorhynchus mykiss	INV	VIMS:40312	12S	69	1015	Voucher
+INV_Oncorhynchus_mykiss_VIMS.fasta	Oncorhynchus mykiss	INV	VIMS:40312	COX	5465	7015	Voucher
+INV_Oncorhynchus_mykiss_ST.fasta	Oncorhynchus mykiss	INV	ST-075	16S	1088	2767	Voucher
+INV_Oncorhynchus_mykiss_ST.fasta	Oncorhynchus mykiss	INV	ST-075	12S	69	1015	Voucher
+INV_Oncorhynchus_mykiss_ST.fasta	Oncorhynchus mykiss	INV	ST-075	COX	5469	7019	Voucher
+INV_Oncorhynchus_mykiss_94051.fasta	Oncorhynchus mykiss	INV	94051	16S	1088	2767	isolate
+INV_Oncorhynchus_mykiss_94051.fasta	Oncorhynchus mykiss	INV	94051	12S	69	1015	isolate
+INV_Oncorhynchus_mykiss_94051.fasta	Oncorhynchus mykiss	INV	94051	COX	5465	7015	isolate
+INV_Oncorhynchus_nerka_FB2.fasta	Oncorhynchus nerka	INV	FB2	16S	1088	2765	isolate
+INV_Oncorhynchus_nerka_FB2.fasta	Oncorhynchus nerka	INV	FB2	12S	69	1015	isolate
+INV_Oncorhynchus_nerka_FB2.fasta	Oncorhynchus nerka	INV	FB2	COX	5467	7017	isolate
+INV_Oncorhynchus_nerka_FB1.fasta	Oncorhynchus nerka	INV	FB1	16S	1088	2765	isolate
+INV_Oncorhynchus_nerka_FB1.fasta	Oncorhynchus nerka	INV	FB1	12S	69	1015	isolate
+INV_Oncorhynchus_nerka_FB1.fasta	Oncorhynchus nerka	INV	FB1	COX	5467	7017	isolate
+INV_Oncorhynchus_nerka_FB7.fasta	Oncorhynchus nerka	INV	FB7	16S	1088	2765	isolate
+INV_Oncorhynchus_nerka_FB7.fasta	Oncorhynchus nerka	INV	FB7	12S	69	1015	isolate
+INV_Oncorhynchus_nerka_FB7.fasta	Oncorhynchus nerka	INV	FB7	COX	5467	7017	isolate
+INV_Oncorhynchus_tshawytscha_cgNC.fasta	Oncorhynchus tshawytscha 	INV	Complete Genome NC	16S	2074	3756	Complete Genome
+INV_Oncorhynchus_tshawytscha_cgNC.fasta	Oncorhynchus tshawytscha 	INV	Complete Genome NC	12S	1055	2001	Complete Genome
+INV_Oncorhynchus_tshawytscha_cgNC.fasta	Oncorhynchus tshawytscha 	INV	Complete Genome NC	COX	6455	8005	Complete Genome
+INV_Oncorhynchus_tshawytscha_cgON.fasta	Oncorhynchus tshawytscha 	INV	Complete Genome ON	16S	1088	2767	Complete Genome
+INV_Oncorhynchus_tshawytscha_cgON.fasta	Oncorhynchus tshawytscha 	INV	Complete Genome ON	12S	69	1015	Complete Genome
+INV_Oncorhynchus_tshawytscha_cgON.fasta	Oncorhynchus tshawytscha 	INV	Complete Genome ON	COX	5466	7016	Complete Genome
+INV_Oreochromis_niloticus_America.fasta	Oreochromis niloticus	INV	America	16S	1086	2781	Strain
+INV_Oreochromis_niloticus_America.fasta	Oreochromis niloticus	INV	America	12S	70	1013	Strain
+INV_Oreochromis_niloticus_America.fasta	Oreochromis niloticus	INV	America	COX	5474	7069	Strain
+INV_Oreochromis_niloticus_Guangdong.fasta	Oreochromis niloticus	INV	Guangdong	16S	1087	2784	Strain
+INV_Oreochromis_niloticus_Guangdong.fasta	Oreochromis niloticus	INV	Guangdong	12S	70	1013	Strain
+INV_Oreochromis_niloticus_Guangdong.fasta	Oreochromis niloticus	INV	Guangdong	COX	5479	7074	Strain
+INV_Oreochromis_niloticus_Egypt.fasta	Oreochromis niloticus	INV	Egypt	16S	1086	2781	Strain
+INV_Oreochromis_niloticus_Egypt.fasta	Oreochromis niloticus	INV	Egypt	12S	70	1013	Strain
+INV_Oreochromis_niloticus_Egypt.fasta	Oreochromis niloticus	INV	Egypt	COX	5475	7070	Strain
+INV_Oryzias_latipes_cg.fasta	Oryzias latipes	INV	Complete Genome	16S	1084	2757	Complete Genome
+INV_Oryzias_latipes_cg.fasta	Oryzias latipes	INV	Complete Genome	12S	70	1011	Complete Genome
+INV_Oryzias_latipes_cg.fasta	Oryzias latipes	INV	Complete Genome	COX	5455	7011	Complete Genome
+INV_Oryzias_latipes_shanghai.fasta	Oryzias latipes	INV	Shanghai	16S	1084	2756	isolate
+INV_Oryzias_latipes_shanghai.fasta	Oryzias latipes	INV	Shanghai	12S	70	1011	isolate
+INV_Oryzias_latipes_shanghai.fasta	Oryzias latipes	INV	Shanghai	COX	5454	7010	isolate
+INV_Oryzias_latipes_nago.fasta	Oryzias latipes	INV	Nago	16S	1085	2757	isolate
+INV_Oryzias_latipes_nago.fasta	Oryzias latipes	INV	Nago	12S	70	1012	isolate
+INV_Oryzias_latipes_nago.fasta	Oryzias latipes	INV	Nago	COX	5455	7011	isolate
+INV_Poecilia_reticulata_cg.fasta	Poecilia reticulata	INV	Complete Genome	16S	1085	2756	Complete Genome
+INV_Poecilia_reticulata_cg.fasta	Poecilia reticulata	INV	Complete Genome	12S	70	1013	Complete Genome
+INV_Poecilia_reticulata_cg.fasta	Poecilia reticulata	INV	Complete Genome	COX	5451	7001	Complete Genome
+INV_Poecilia_reticulata_FPr1.fasta	Poecilia reticulata	INV	F-P-r-1	16S	1089	2761	isolate
+INV_Poecilia_reticulata_FPr1.fasta	Poecilia reticulata	INV	F-P-r-1	12S	70	1017	isolate
+INV_Poecilia_reticulata_FPr1.fasta	Poecilia reticulata	INV	F-P-r-1	COX	5460	7016	isolate
+INV_Rocío_octofasciata_cg.fasta	Rocío octofasciata	INV	Complete Genome	16S	1093	2778	Complete Genome
+INV_Rocío_octofasciata_cg.fasta	Rocío octofasciata	INV	Complete Genome	12S	70	1020	Complete Genome
+INV_Rocío_octofasciata_cg.fasta	Rocío octofasciata	INV	Complete Genome	COX	5471	7033	Complete Genome
+INV_Salmo_salar_Chi1.fasta	Salmo salar	INV	Sal_Chi1	16S	1100	2769	isolate
+INV_Salmo_salar_Chi1.fasta	Salmo salar	INV	Sal_Chi1	12S	69	1015	isolate
+INV_Salmo_salar_Chi1.fasta	Salmo salar	INV	Sal_Chi1	COX	5475	7025	isolate
+INV_Salmo_salar_Chi2.fasta	Salmo salar	INV	Sal_Chi2	16S	1100	2769	isolate
+INV_Salmo_salar_Chi2.fasta	Salmo salar	INV	Sal_Chi2	12S	69	1015	isolate
+INV_Salmo_salar_Chi2.fasta	Salmo salar	INV	Sal_Chi2	COX	5475	7025	isolate
+INV_Salmo_salar_Far1.fasta	Salmo salar	INV	Sal_Far1	16S	1100	2769	isolate
+INV_Salmo_salar_Far1.fasta	Salmo salar	INV	Sal_Far1	12S	69	1015	isolate
+INV_Salmo_salar_Far1.fasta	Salmo salar	INV	Sal_Far1	COX	5475	7025	isolate
+INV_Salmo_trutta_T10059.fasta	Salmo trutta	INV	T10059	16S	1088	2768	isolate
+INV_Salmo_trutta_T10059.fasta	Salmo trutta	INV	T10059	12S	69	1015	isolate
+INV_Salmo_trutta_T10059.fasta	Salmo trutta	INV	T10059	COX	5475	7025	isolate
+INV_Salmo_trutta_MAla-1.fasta	Salmo trutta	INV	MAla-1	16S	1088	2768	isolate
+INV_Salmo_trutta_MAla-1.fasta	Salmo trutta	INV	MAla-1	12S	69	1015	isolate
+INV_Salmo_trutta_MAla-1.fasta	Salmo trutta	INV	MAla-1	COX	5475	7025	isolate
+INV_Salmo_trutta_T06836.fasta	Salmo trutta	INV	T06836	16S	1088	2768	isolate
+INV_Salmo_trutta_T06836.fasta	Salmo trutta	INV	T06836	12S	69	1015	isolate
+INV_Salmo_trutta_T06836.fasta	Salmo trutta	INV	T06836	COX	5475	7025	isolate
+INV_Salvelinus_alpinus_ICEL1.fasta	Salvelinus alpinus	INV	ICEL_1_1	16S	2083	3761	isolate
+INV_Salvelinus_alpinus_ICEL1.fasta	Salvelinus alpinus	INV	ICEL_1_1	12S	1064	2010	isolate
+INV_Salvelinus_alpinus_ICEL1.fasta	Salvelinus alpinus	INV	ICEL_1_1	COX	6467	8017	isolate
+INV_Salvelinus_alpinus_ICEL7.fasta	Salvelinus alpinus	INV	ICEL_1_7	16S	2083	3761	isolate
+INV_Salvelinus_alpinus_ICEL7.fasta	Salvelinus alpinus	INV	ICEL_1_7	12S	1064	2010	isolate
+INV_Salvelinus_alpinus_ICEL7.fasta	Salvelinus alpinus	INV	ICEL_1_7	COX	6467	8017	isolate
+INV_Salvelinus_alpinus_ICEL16.fasta	Salvelinus alpinus	INV	ICEL_1_16	16S	2083	3761	isolate
+INV_Salvelinus_alpinus_ICEL16.fasta	Salvelinus alpinus	INV	ICEL_1_16	12S	1064	2010	isolate
+INV_Salvelinus_alpinus_ICEL16.fasta	Salvelinus alpinus	INV	ICEL_1_16	COX	6467	8017	isolate
+INV_Salvelinus_fontanilis_cg.fasta	Salvelinus fontinalis	INV	Complete genome	16S	2052	3731	Complete Genome
+INV_Salvelinus_fontanilis_cg.fasta	Salvelinus fontinalis	INV	Complete genome	12S	1033	1979	Complete Genome
+INV_Salvelinus_fontanilis_cg.fasta	Salvelinus fontinalis	INV	Complete genome	COX	6436	7986	Complete Genome
+INV_Salvelinus_fontanilis_F16-139.fasta	Salvelinus fontinalis	INV	NEFC_F16-139	16S	1088	2776	Voucher
+INV_Salvelinus_fontanilis_F16-139.fasta	Salvelinus fontinalis	INV	NEFC_F16-139	12S	69	1015	Voucher
+INV_Salvelinus_fontanilis_F16-139.fasta	Salvelinus fontinalis	INV	NEFC_F16-139	COX	5471	7021	Voucher
+INV_Salvelinus_fontanilis_F16-129.fasta	Salvelinus fontinalis	INV	NEFC_F16-129	16S	1088	2776	Voucher
+INV_Salvelinus_fontanilis_F16-129.fasta	Salvelinus fontinalis	INV	NEFC_F16-129	12S	69	1015	Voucher
+INV_Salvelinus_fontanilis_F16-129.fasta	Salvelinus fontinalis	INV	NEFC_F16-129	COX	5471	7021	Voucher
+INV_Salvelinus_namaycush_F16-012.fasta	Salvelinus namaycush	INV	NEFC_F16-012	16S	1088	2776	Voucher
+INV_Salvelinus_namaycush_F16-012.fasta	Salvelinus namaycush	INV	NEFC_F16-012	12S	69	1015	Voucher
+INV_Salvelinus_namaycush_F16-012.fasta	Salvelinus namaycush	INV	NEFC_F16-012	COX	5472	7022	Voucher
+INV_Salvelinus_namaycush_F16-461.fasta	Salvelinus namaycush	INV	NEFC_F16-461	16S	1089	2777	Voucher
+INV_Salvelinus_namaycush_F16-461.fasta	Salvelinus namaycush	INV	NEFC_F16-461	12S	69	1016	Voucher
+INV_Salvelinus_namaycush_F16-461.fasta	Salvelinus namaycush	INV	NEFC_F16-461	COX	5473	7023	Voucher
+INV_Salvelinus_namaycush_UAM.fasta	Salvelinus namaycush	INV	UAM:Fish:10464:374966	16S	1088	2766	Voucher
+INV_Salvelinus_namaycush_UAM.fasta	Salvelinus namaycush	INV	UAM:Fish:10464:374966	12S	69	1015	Voucher
+INV_Salvelinus_namaycush_UAM.fasta	Salvelinus namaycush	INV	UAM:Fish:10464:374966	COX	5472	7022	Voucher
+INV_Xiphophorus_maculatus_cg.fasta	Xiphophorus maculatus	INV	Complete genome	16S	1090	2766	Complete Genome
+INV_Xiphophorus_maculatus_cg.fasta	Xiphophorus maculatus	INV	Complete genome	12S	70	1017	Complete Genome
+INV_Xiphophorus_maculatus_cg.fasta	Xiphophorus maculatus	INV	Complete genome	COX	5467	7023	Complete Genome
+INV_Xiphophorus_maculatus_fxm1.fasta	Xiphophorus maculatus	INV	F-X-m-1	16S	1090	2765	isolate
+INV_Xiphophorus_maculatus_fxm1.fasta	Xiphophorus maculatus	INV	F-X-m-1	12S	70	1016	isolate
+INV_Xiphophorus_maculatus_fxm1.fasta	Xiphophorus maculatus	INV	F-X-m-1	COX	5465	7021	isolate

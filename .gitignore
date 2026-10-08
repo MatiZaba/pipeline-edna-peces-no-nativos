@@ -1,0 +1,34 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Copias de seguridad
+*.bak
+
+# Archivos temporales de editores
+*~
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local
+.env
+.env.*
+!.env.example
+
+# Copias auxiliares del diseño de primers
+05_diseno_primers/diseno_primers_16S_backup.pl
+
+# Archivos de bloqueo de LibreOffice
+.~lock.*#

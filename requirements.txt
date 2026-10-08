@@ -1,0 +1,15 @@
+# Análisis y procesamiento de datos
+pandas==3.0.5
+numpy==2.5.3
+
+# Visualización
+matplotlib==3.11.1
+
+# Bioinformática
+biopython==1.88
+
+# Interfaz gráfica
+streamlit==1.65.0
+
+# Notebooks
+jupyterlab==4.6.4

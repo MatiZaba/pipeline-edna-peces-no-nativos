@@ -1,0 +1,4 @@
+gen,longitud_media_no_nativa,p_intra_media,p_inter_no_nativas_media,p_no_nativa_nativa_media,agrupamiento_exclusivo_pct,mejor_region_dmin_media,mejor_region_dmin_mediana,mejor_region_dmin_minima,especies_dmin_cero
+12S,951.95,0.002686,0.166857,0.188277,100.0,0.1576,0.125,0.0,2
+16S,1680.8,0.004223,0.200809,0.228014,93.548387,0.2146,0.1905,0.05,0
+COI,1553.86,0.008234,0.190434,0.201457,100.0,0.1768,0.16,0.04,0
